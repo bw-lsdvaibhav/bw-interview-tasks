@@ -1,0 +1,445 @@
+{
+    "usertmp": {
+        "id": 17945,
+        "user_id": "1xxx4",
+        "data": null,
+        "exam_id": 2,
+        "set_id": 16,
+        "exam_status": 2,
+        "status": 1,
+        "careers": null,
+        "exam_date": "2024-12-01T18:03:28.000Z",
+        "exam_end_date": "2024-12-01T18:08:10.000Z",
+        "parent_id": 0,
+        "admin_id": 19,
+        "organization_id": 9,
+        "superadmin_id": 12,
+        "associate_id": 1,
+        "token": "2f959b10dcexxxxxxxxxxxxx0b7c67e98",
+        "report_url": null
+    },
+    "user_exam_score": {
+        "id": 17926,
+        "user_id": "1xxx4",
+        "set_id": 16,
+        "exam_id": 2,
+        "exam_date": "0000-00-00 00:00:00",
+        "question_score": "{\"501\":0,\"502\":1,\"503\":0,\"504\":0,\"505\":0,\"506\":1,\"507\":1,\"508\":0,\"509\":0,\"510\":0,\"511\":0,\"512\":0,\"513\":0,\"514\":0,\"515\":1,\"516\":0,\"517\":0,\"518\":0,\"519\":0,\"520\":0,\"521\":0,\"522\":1,\"523\":0,\"524\":0,\"525\":0,\"526\":1,\"527\":0,\"528\":0,\"529\":0,\"530\":0,\"531\":0,\"532\":1,\"533\":0,\"534\":0,\"535\":1,\"536\":0,\"537\":0,\"538\":1,\"539\":0,\"540\":0,\"541\":0,\"542\":0,\"543\":0,\"544\":0,\"545\":0,\"546\":0,\"547\":1,\"548\":1,\"549\":0,\"600\":0,\"602\":1,\"603\":0,\"604\":0,\"605\":0,\"606\":0,\"607\":0,\"609\":0,\"610\":0,\"611\":1,\"612\":0}",
+        "domain_score": "{\"6\":3,\"7\":1,\"8\":2,\"9\":3,\"10\":2,\"11\":2}",
+        "total_score": "13",
+        "subdomain_score": "{\"null\":{\"total\":13}}",
+        "result_object": "{\"aptitude\":{\"total\":13,\"page\":3,\"outof\":60,\"percentage\":\"21.67\",\"questions\":{},\"subdomains\":{\"null\":{\"total\":13,\"outof\":60,\"contribution_percentage\":\"100.00\",\"percentage\":\"21.67\"}},\"domains\":{\"6\":{\"total\":3,\"outof\":10,\"contribution_percentage\":\"5.00\",\"percentage\":\"30.00\"},\"7\":{\"total\":1,\"outof\":10,\"contribution_percentage\":\"1.67\",\"percentage\":\"10.00\"},\"8\":{\"total\":2,\"outof\":10,\"contribution_percentage\":\"3.33\",\"percentage\":\"20.00\"},\"9\":{\"total\":3,\"outof\":10,\"contribution_percentage\":\"5.00\",\"percentage\":\"30.00\"},\"10\":{\"total\":2,\"outof\":10,\"contribution_percentage\":\"3.33\",\"percentage\":\"20.00\"},\"11\":{\"total\":2,\"outof\":10,\"contribution_percentage\":\"3.33\",\"percentage\":\"20.00\"}}}}"
+    },
+    "user": {
+        "id": "1xxx4",
+        "name": "bw vaibhav testing",
+        "username": null,
+        "emailid": "vaibhavk.brainwonders@gmail.com",
+        "email_id": null,
+        "contact_no": "8655509629",
+        "status": 1,
+        "client_id": null,
+        "oem": "{}",
+        "organization_name": "BRAIN WONDERS",
+        "coupon_code": null,
+        "age": null,
+        "dob": "2024-12-25T00:00:00.000Z",
+        "gender": null
+    },
+    "exam": {
+        "domain": [
+            {
+                "id": 6,
+                "status": 1,
+                "name": "LANGUAGE",
+                "set_id": 1,
+                "exam_id": 2,
+                "description": null,
+                "short_desc": null
+            },
+            {
+                "id": 7,
+                "status": 1,
+                "name": "MATHS",
+                "set_id": 0,
+                "exam_id": 2,
+                "description": null,
+                "short_desc": null
+            },
+            {
+                "id": 8,
+                "status": 1,
+                "name": "SPATIAL",
+                "set_id": 0,
+                "exam_id": 2,
+                "description": null,
+                "short_desc": null
+            },
+            {
+                "id": 9,
+                "status": 1,
+                "name": "ABSTRACTIONS",
+                "set_id": 0,
+                "exam_id": 2,
+                "description": null,
+                "short_desc": null
+            },
+            {
+                "id": 10,
+                "status": 1,
+                "name": "MECHANICAL",
+                "set_id": 0,
+                "exam_id": 2,
+                "description": null,
+                "short_desc": null
+            },
+            {
+                "id": 11,
+                "status": 1,
+                "name": "SPEED",
+                "set_id": 0,
+                "exam_id": 2,
+                "description": null,
+                "short_desc": null
+            },
+            {
+                "id": 103,
+                "status": 1,
+                "name": "ABSTRACTION",
+                "set_id": 0,
+                "exam_id": 2,
+                "description": null,
+                "short_desc": null
+            },
+            {
+                "id": 104,
+                "status": 1,
+                "name": "LANGUAGE",
+                "set_id": 0,
+                "exam_id": 2,
+                "description": null,
+                "short_desc": null
+            },
+            {
+                "id": 105,
+                "status": 1,
+                "name": "MECHANICAL",
+                "set_id": 0,
+                "exam_id": 2,
+                "description": null,
+                "short_desc": null
+            },
+            {
+                "id": 106,
+                "status": 1,
+                "name": "SPEED & ACCURACY",
+                "set_id": 0,
+                "exam_id": 2,
+                "description": null,
+                "short_desc": null
+            },
+            {
+                "id": 107,
+                "status": 1,
+                "name": "ARITHMETIC",
+                "set_id": 0,
+                "exam_id": 2,
+                "description": null,
+                "short_desc": null
+            },
+            {
+                "id": 108,
+                "status": 1,
+                "name": "SPATIAL",
+                "set_id": 0,
+                "exam_id": 2,
+                "description": null,
+                "short_desc": null
+            }
+        ],
+        "set": {
+            "id": 16,
+            "set_name": "Aptitude",
+            "exam_id": 2,
+            "exam_name": "",
+            "status": 1,
+            "time": 120,
+            "marks": 50,
+            "language": null,
+            "tmp_url": null,
+            "start_exam": "",
+            "instruction": "<ol><li>This test is designed to measure one&#39;s aptitude- which refers to the skill and talents of a person.</li><li>Read each question carefully and answer keeping in mind your response to the stated question.</li><li>In this test there are many choices following a question- however only one is correct.</li><li>Simply answer by choosing the one which seems to be the correct option based on your knowledge so far.</li><li>The timer will start on the test- please keep a note of it as all questions are compulsory and it is a time-based test.</li></ol><p>The time allotted for the test is :&nbsp;<strong>90 min</strong></p>p>Please note that the results are based solely on your responses.</p> <p>Remember, in case you take time beyond the given time, your test will be submitted and analysed with unmarked responses.</p>",
+            "submit_url": "common",
+            "reporturl": "",
+            "productlead": null,
+            "testamount": 0,
+            "testsubject": "Your Brainwonders Test Result",
+            "report_email_content": null,
+            "created_by": null,
+            "created_date": "2022-10-18T08:08:19.000Z",
+            "modified_by": null,
+            "modified_date": null
+        },
+        "exam": [
+            {
+                "id": 2,
+                "name": "APTITUTE",
+                "report_function": "aptitude_report_pdf"
+            }
+        ],
+        "subdomains": {}
+    },
+    "orgTest": {
+        "id": 123,
+        "set_id": "16",
+        "organization_id": 9,
+        "status": 1,
+        "created_date": "2023-10-15T20:47:12.000Z",
+        "created_by": 0,
+        "send_email": 2,
+        "email_bcc": "",
+        "email_cc": "",
+        "pathway_status": 0,
+        "reporturl": "exam/report/",
+        "exam_id": 2,
+        "reg_sef": "gera-aptitude-test",
+        "tyredirect": "exam/thankyou/",
+        "tycontent": "<p>Thank You! for taking the test.</p>",
+        "tyredirect_time": 2000,
+        "reportredirect_status": 2,
+        "redirect_status": 1,
+        "testamount": 2499,
+        "productlead": "Psychometric Aptitude Test",
+        "exam_name": "Psychometric Aptitude Test",
+        "instruction": "<p>Here is your instruction page..</p>",
+        "dashboard_link": null,
+        "raisec_status": 1,
+        "spoc": null,
+        "suffle_question": null,
+        "suffle_answer": null,
+        "show_domain": 1,
+        "show_subdomain": 1,
+        "report_job_limit": 10,
+        "custom_test_lp": 0,
+        "reg_template": "2",
+        "report_email_template": null,
+        "report_email_content": null,
+        "set_identifier_field": null,
+        "set_identifier_value": null,
+        "default_set_id": null,
+        "reg_title": "Pyschometric Aptitude Test",
+        "webhook": 2,
+        "webhookurl": "",
+        "generate_report": 2,
+        "webhook_headers": null,
+        "exam_theme": 2,
+        "report_theme": 5,
+        "oem": null,
+        "send_email_reg": null,
+        "type": null,
+        "show_download_btn": 1,
+        "color_config": "{\"color\":\"#0d7bdb\"}",
+        "modified_by": null,
+        "modified_date": null
+    },
+    "dynamic_report_data": {
+        "3": {
+            "aptitude": {
+                "total": 13,
+                "page": 3,
+                "outof": 60,
+                "percentage": "21.67",
+                "questions": {},
+                "subdomains": {
+                    "null": {
+                        "total": 13,
+                        "outof": 60,
+                        "contribution_percentage": "100.00",
+                        "percentage": "21.67"
+                    }
+                },
+                "domains": {
+                    "6": {
+                        "total": 3,
+                        "outof": 10,
+                        "contribution_percentage": "5.00",
+                        "percentage": "30.00"
+                    },
+                    "7": {
+                        "total": 1,
+                        "outof": 10,
+                        "contribution_percentage": "1.67",
+                        "percentage": "10.00"
+                    },
+                    "8": {
+                        "total": 2,
+                        "outof": 10,
+                        "contribution_percentage": "3.33",
+                        "percentage": "20.00"
+                    },
+                    "9": {
+                        "total": 3,
+                        "outof": 10,
+                        "contribution_percentage": "5.00",
+                        "percentage": "30.00"
+                    },
+                    "10": {
+                        "total": 2,
+                        "outof": 10,
+                        "contribution_percentage": "3.33",
+                        "percentage": "20.00"
+                    },
+                    "11": {
+                        "total": 2,
+                        "outof": 10,
+                        "contribution_percentage": "3.33",
+                        "percentage": "20.00"
+                    }
+                },
+                "reportdata": {}
+            }
+        }
+    },
+    "brand_report_data": {
+        "id": 9,
+        "name": "The Gera School",
+        "logo": "https://s3.ap-south-1.amazonaws.com/tm-uat-resources/brand-resources/Logo (1).png",
+        "banner": "https://s3.ap-south-1.amazonaws.com/tm-uat-resources/brand-resources/desktop.webp",
+        "code": "",
+        "location": "Tiswadi, Goa",
+        "about": "<p>The Geras are no strangers to the world of education, having established the Jai Hind Sindhu Education Trust in Pune, which caters to over 10,000 students from age 3 to 23, as part of an aided State-board school and college. They are delighted to extend their experience with their first unaided, private, International school in Goa.</p>",
+        "principal_name": "Mr. Rohit Gera",
+        "principal_img": "https://s3.ap-south-1.amazonaws.com/tm-uat-resources/brand-resources/principal-gera.png",
+        "message_desc": "<p>Rohit Gera is a third generation real estate entrepreneur and Managing Director at Gera Developments. He went to school at Doon School, Dehradun. He has a double major in building construction, project management and economics from the University of Massachusetts &amp; an advanced Management degree in Real Estate from the Graduate School of Design at Harvard University.</p>",
+        "qoute": "One of the Best International Schools in Goa",
+        "twitter": "https://www.linkedin.com/company/thegeraschool",
+        "facebook": "https://www.facebook.com/thegeraschool/",
+        "poweredby_logo": "https://brainwonders.in/aptitudetest/careertest-assets/img/group-4.png",
+        "abbr": "TGS",
+        "organization_id": 9,
+        "page_3_desc": "<h2>The Gera Family</h2><p>The Gera Family has been responsible for building communities since 1970 in Pune, Goa, Bangalore and California with a commitment towards innovation and service. Credited with some pioneering benchmarks such as Real Estate warranties and Child-Centric Homes, and with a driving objective to exceed expectations of customers, the Trustees have extended their vision ‘to nurturing’ in the world of education with a K-12 co-educational day-boarding <a href=\"https://www.thegeraschool.com/%3C%=%20url_index%20%%3E\">International school in Goa.</a><br><br>The Geras are no strangers to the world of education, having established the Jai Hind Sindhu Education Trust in Pune, which caters to over 10,000 students from age 3 to 23, as part of an aided State-board school and college. They are delighted to extend their experience with their first unaided, private, International school in Goa.</p>",
+        "college_logo": "https://s3.ap-south-1.amazonaws.com/tm-uat-resources/brand-resources/logo.png",
+        "poweredby_text": "POWERED BY",
+        "designation": "Chairman - Advisory Committee",
+        "aboutus_img": "https://s3.ap-south-1.amazonaws.com/tm-uat-resources/brand-resources/Logo (1).png",
+        "header_status": 1,
+        "page1_status": 1,
+        "page2_status": 1,
+        "page3_status": 1,
+        "footer_status": 1,
+        "default_status": 2,
+        "aboutus_status": null,
+        "mission": "<p>Ensuring a holistic environment that encourages high expectations for success wherein our students evolve to become self-directed, lifelong learners.</p>",
+        "vision": "<p>To nurture individuality in all our students, empowering them to maximize their potential to become 21st century global citizens, keeping in mind traditional values that lie at the heart of our ethos.</p>"
+    },
+    "reportdata": [
+        {
+            "id": 115,
+            "career_name": "Environmental Engineer",
+            "category": "Engineering",
+            "min_salary": "20000",
+            "max_salary": "50000",
+            "media_path": "assets/career_media/2020/11/career_2020-11-18-12-16-03Environmental_Engineer.webp",
+            "how_to_become": "<p>Environmental engineering is an engineering discipline that is intricately associated with broad sciences such as biology, geology, ecology,&nbsp; chemistry, hydraulics, microbiology and mathematics that aim to devise solutions for prevalent environmental problems. Environmental engineers are essentially concerned with designing equipment, systems and processes such as stack scrubbers and wastewater management systems that control pollution, protect the environment and public health. They also ensure that the waste is treated and disposed of correctly and in accordance with all the health and environmental regulations.</p><p>Furthermore, environmental engineers work as consultants, advising on the environmental implications of a project and conducting inspections to assure compliance. These dynamic professionals also address global issues such as climate change, sustainability, unsafe drinking water, etc. Environmental engineering jobs entail regular site visits, working under pressure, and extra hours irrespective of the weather or the time of the year due to the sensitive nature of the job. There is good environmental engineering scope in the future due to an increased focus and awareness about environmental degradation and the acute need to mitigate and, better yet, end it.</p>",
+            "what_does_do": "<p>Environmental engineering jobs have multifaceted roles, but typically depend on the area of specialization. Generally, it comprises of the following tasks:</p><ul><li>Perform thorough analysis of scientific data and conduct quality-control checks</li><li>Advise government and corporate agencies on environmental effects of construction projects, hazards or commercial operation</li><li>Design and create plans to protect and restore the environment by removing contaminants from water, air and land&nbsp;</li><li>detect the presence of pollutants and track their sources</li><li>Supervise the tasks of construction and remediation sites</li></ul>",
+            "ability_needed": "<p>Environmental engineering jobs require specific skills and inclinations and relevant educational backgrounds to excel in the field. Environmental engineering aspirants should generally have a passion for protecting the environment. They are expected to be excellent problem-solvers, have a keen eye for details, and have excellent communication skills. Environmental engineer jobs require a fair contribution of creativity, innovation and logical concepts, and thus, candidates must exhibit these traits to at least some extent. These specific attributes may not be mentioned in the environmental engineering job description, but employers certainly look for them in aspirants.</p>",
+            "job_outlook": "<p>Environmental engineering is an emerging branch of engineering for many reasons; one of them is that it allows aspirants to work for various industries and projects. It is a great career option for aspirants who are genuinely passionate about the environment. It can be said that there is&nbsp;good environmental engineering scope in the future due to the need for efficient wastewater treatment and, in general, environment pollution control and prevention.</p>"
+        },
+        {
+            "id": 153,
+            "career_name": "Fuel Cell Engineer",
+            "category": "Engineering",
+            "min_salary": "30000",
+            "max_salary": "35000",
+            "media_path": "assets/career_media/2020/11/career_2020-11-18-13-28-56Fuel_Cell_Engineer.webp",
+            "how_to_become": "<p>Fuel cell engineering is a combined branch of mechanical engineering and chemical engineering that deals with the creativity and technology of fuel cells. Fuel Cell Engineers design, construct, evaluate, and modify fuel cell components or systems for portable applications. In addition, fuel cell Engineers conduct fuel cell testing projects using fuel cell test stations, analytical instruments, or electrochemical diagnostics, such as cyclic voltammetry or impedance spectroscopy. The role and responsibilities of Fuel cell engineers are to design and build mechanisms that produce electricity through a chemical reaction involving hydrogen, develop design plans, and assess the design.</p><p>Work documentation and manufacturing process supervision These duties are carried out by fuel cell engineers in connection to fuel cells. In addition, fuel cell Engineers work on enhancing the design plan of current fuel cells, and when the fuel cell is manufactured, it is evaluated for performance to establish its purpose. This will assist Fuel Cell Engineers in making design modifications or developing innovative methods to minimise manufacturing costs or boost fuel cell efficiency.</p>",
+            "what_does_do": "<ul><li>To validate the design of fuel cell components, fuel cells or fuel cell systems.</li><li>To fabricate prototypes of fuel cell assemblies, stacks, components or systems.</li><li>To develop fuel cell test equipment or fuel cell materials</li><li>To implement or recommend changes to fuel cell system designs.</li><li>To define and identify vehicle and system integration challenges for fuel cell vehicles.</li></ul>",
+            "ability_needed": "<ul><li>Horough understanding of physics, chemistry, mathematics, computers, and design related to fuel cell development.</li><li>Thorough understanding of the practical application of engineering science and technology.</li><li>Extremely proficient in a variety of related computer software including:-Computer-aided design (CAD)-Analytical and scientific software such as FactSage, GateCycle, and Minitab-Industrial&nbsp;</li><li>Control software such as Supervisory Control and Data Acquisition (SCADA)-Component oriented development software-Microsoft Office Suite</li><li>Excellent verbal and written communication skills.</li><li>Strong problem-solving and troubleshooting skills.</li><li>Detail-oriented and analytical.</li><li>Thorough understanding of scientific methods and rules.</li><li>Thorough understanding of evaluation processes and indicators.</li></ul>",
+            "job_outlook": "<p>Fuel cell engineering is an excellent job role to opt for people who are passionate about engineering. It is a promising field for several opportunities and provides high monetary rewards. This career is suitable for aspirants who like to have work activities that include practical, hands-on problems and solutions.</p>"
+        },
+        {
+            "id": 163,
+            "career_name": "Health Specialties Teacher, Postsecondary",
+            "category": "Academia",
+            "min_salary": "15000",
+            "max_salary": "25000",
+            "media_path": "",
+            "how_to_become": "",
+            "what_does_do": "",
+            "ability_needed": "",
+            "job_outlook": ""
+        },
+        {
+            "id": 170,
+            "career_name": "Human Factor Engineer and Ergonomist",
+            "category": "Engineering",
+            "min_salary": "50000",
+            "max_salary": "70000",
+            "media_path": "assets/career_media/2023/06/Human Factor Engineer and Ergonomist.webp",
+            "how_to_become": "<p style=\"text-align:justify\">Human Factors Engineers and Ergonomists specialize in studying human capabilities, limitations, and interactions with various systems and environments. They apply scientific principles to design products, techniques, and workspaces that optimize human performance, safety, and well-being.</p>\r\n\r\n<p style=\"text-align:justify\">Human Factors Engineers focus on designing and evaluating user interfaces, equipment, and technology to enhance usability and user experience. They analyze human behaviour, cognitive processes, and physical interactions to ensure that systems are intuitive, efficient, and error-resistant.</p>\r\n\r\n<p style=\"text-align:justify\">Ergonomists, on the other hand, concentrate on optimizing the fit between individuals and their work environments. They assess physical, cognitive, and organizational factors to design workspaces, tools, and tasks that reduce the risk of injury, fatigue, and stress while improving productivity and comfort.</p>\r\n\r\n<p style=\"text-align:justify\">Both professionals collaborate with interdisciplinary teams, research, apply ergonomic principles, and integrate user feedback to create systems and environments that align with human capabilities, promoting safety, efficiency, and user satisfaction.</p>\r\n",
+            "what_does_do": "<p><strong>Human Factors Engineer:</strong></p>\r\n\r\n<ul>\r\n\t<li>Conduct user research and usability testing to evaluate the effectiveness and efficiency of product designs.</li>\r\n\t<li>Design and improve user interfaces, including graphical displays, controls, and interaction methods, to enhance user experience and reduce errors.</li>\r\n\t<li>Analyze human behaviour and cognitive processes to ensure systems are intuitive and user-friendly.</li>\r\n\t<li>Collaborate with design and engineering teams to incorporate user-centred design principles and best practices.</li>\r\n\t<li>Identify potential hazards and risks in systems, and recommend design modifications to enhance safety and reduce user errors.</li>\r\n\t<li>Contribute to developing guidelines, standards, and regulations related to human factors in various industries.</li>\r\n\t<li>Conduct training and provide user training and documentation recommendations to support safe and efficient system use.</li>\r\n</ul>\r\n\r\n<p><strong>Ergonomist:</strong></p>\r\n\r\n<ul>\r\n\t<li>Assess and design workspaces, equipment, and tools to optimize the fit between individuals and their tasks.</li>\r\n\t<li>Analyze physical, cognitive, and organizational factors to reduce the risk of musculoskeletal disorders, fatigue, and stress.</li>\r\n\t<li>Conduct ergonomic evaluations and recommend interventions to improve safety, comfort, and productivity.</li>\r\n\t<li>Provide ergonomic solutions for office environments, manufacturing facilities, healthcare settings, and other work environments.</li>\r\n\t<li>Collaborate with architects and designers to incorporate ergonomic principles into the design of new workspaces and facilities.</li>\r\n\t<li>Conduct ergonomic training and education to promote awareness and proper ergonomic practices among workers.</li>\r\n\t<li>Research to advance the understanding of human capabilities, limitations, and the impact of ergonomic interventions.</li>\r\n</ul>\r\n",
+            "ability_needed": "<ol>\r\n\t<li style=\"text-align: justify;\"><strong>Knowledge of Human Factors and Ergonomics:&nbsp;</strong>A strong understanding of human factors and ergonomics principles, theories, and concepts is necessary. This includes knowledge of human cognition, perception, anthropometry, biomechanics, and work system design.</li>\r\n\t<li style=\"text-align: justify;\"><strong>Analytical and Critical Thinking:</strong>&nbsp;Human Factors Engineers and Ergonomists should possess strong analytical and critical thinking skills to identify problems, analyze data, and develop practical solutions. They should be able to apply scientific methods and research techniques to evaluate and improve systems and environments.</li>\r\n\t<li style=\"text-align: justify;\"><strong>Research and Data Analysis:&nbsp;</strong>Proficiency in conducting research, collecting and analyzing data, and interpreting findings is essential. This includes skills in qualitative and quantitative research methods, statistical analysis, and data visualization.</li>\r\n\t<li style=\"text-align: justify;\"><strong>User-Centred Design:</strong>&nbsp;Human Factors Engineers should have expertise in user-centred design principles. They need to understand user requirements, conduct user research, and translate insights into design recommendations that enhance usability and user experience.</li>\r\n\t<li style=\"text-align: justify;\"><strong>Technical Knowledge:</strong>&nbsp;Familiarity with various tools and software used in human factors and ergonomics research and design, such as data collection instruments, statistical analysis software, and human modelling software, is beneficial.</li>\r\n\t<li style=\"text-align: justify;\"><strong>Communication and Collaboration:</strong>&nbsp;Excellent communication skills are crucial for effectively communicating research findings, design recommendations, and collaborating with interdisciplinary teams. Human Factors Engineers and Ergonomists should be able to present complex information clearly and concisely to both technical and non-technical audiences.</li>\r\n\t<li style=\"text-align: justify;\"><strong>Problem Solving and Creativity:&nbsp;</strong>Strong problem-solving skills are necessary to identify and address human factors and ergonomic issues. The ability to think creatively and generate innovative solutions is valuable in designing systems and environments that meet user needs.</li>\r\n\t<li style=\"text-align: justify;\"><strong>Attention to Detail:</strong>&nbsp;Human Factors Engineers and Ergonomists should have a keen eye for detail to identify subtle nuances impacting user performance and well-being. Attention to detail is crucial in conducting precise measurements, analyzing data, and developing accurate recommendations.</li>\r\n\t<li style=\"text-align: justify;\"><strong>Adaptability and Flexibility:&nbsp;</strong>Human Factors Engineers and Ergonomists often work on projects in various industries and domains. The ability to adapt to different contexts, learn new technologies or tools, and work on multiple projects simultaneously is essential.</li>\r\n\t<li style=\"text-align: justify;\"><strong>Ethical Considerations:</strong>&nbsp;Having a strong sense of professional ethics is crucial. Human Factors Engineers and Ergonomists must prioritize user safety, privacy, and well-being while respecting confidentiality and ethically conducting research and design activities.</li>\r\n</ol>\r\n",
+            "job_outlook": "<p>The future for Human Factors Engineers and Ergonomists is promising, with increasing recognition of the importance of human-centred design and optimising work environments. The growing integration of advanced technologies, such as virtual reality and artificial intelligence, will provide new opportunities for these professionals to enhance user experiences and address ergonomic challenges. With an ageing population, there will be a greater focus on designing age-friendly environments and healthcare systems. The emphasis on sustainable design and worker well-being will also create new avenues for Human Factors Engineers and Ergonomists. Collaboration with multidisciplinary teams will be essential, and continuous professional development will ensure they stay at the forefront of research and innovation. Overall, the future holds exciting prospects for these professionals to shape the design of systems, products, and workspaces to optimise human performance and well-being.</p>\r\n"
+        },
+        {
+            "id": 275,
+            "career_name": "Nursing Instructor and Teacher, Postsecondary",
+            "category": "Academia",
+            "min_salary": "20000",
+            "max_salary": "25000",
+            "media_path": "assets/career_media/2021/03/career_2021-03-11-14-52-09Nursing_Instructor_and_Teacher.webp",
+            "how_to_become": "<p>A Nursing Instructor and Teacher, a Postsecondary educator specializes in teaching nursing courses at the postsecondary level, such as colleges, universities, and vocational schools. They play a critical role in preparing future nurses for their careers by imparting knowledge, skills, and practical experiences in the nursing field.<br />\r\nThese instructors have extensive expertise in nursing and possess the necessary academic qualifications, typically including a master&#39;s or doctoral degree in nursing. They often have prior clinical experience as registered nurses or advanced practice nurses, which enhances their ability to teach and provide real-world insights to students.<br />\r\nThe responsibilities of a Nursing Instructor and Teacher, Postsecondary, include:</p>\r\n\r\n<ul>\r\n\t<li>Developing and delivering course content</li>\r\n\t<li>Designing curricula.</li>\r\n\t<li>Creating lesson plans that align with program objectives and industry standards.</li>\r\n</ul>\r\n\r\n<p>They may teach various nursing subjects, including anatomy and physiology, pharmacology, medical-surgical nursing, pediatric nursing, psychiatric nursing, and more.<br />\r\nThese instructors facilitate classroom discussions, lead lectures, conduct laboratory demonstrations, and oversee clinical practice sessions to ensure students receive comprehensive theoretical and practical instruction. They assess student performance, provide feedback, and evaluate their progress through assignments, exams, and clinical evaluations.<br />\r\nNursing instructors also serve as mentors and advisors to students, guiding them in their career paths and providing academic and professional support. They stay updated on nursing practice, research, and technology advancements to incorporate the latest evidence-based knowledge into their teaching.<br />\r\nFurthermore, Nursing Instructors may contribute to nursing research, publish scholarly articles, and engage in professional development activities to enhance their expertise and contribute to the nursing profession.<br />\r\nOverall, Nursing Instructors and Teachers, Postsecondary, play a crucial role in shaping the next generation of nurses by providing quality education, guidance, and mentorship to aspiring healthcare professionals.</p>\r\n",
+            "what_does_do": "<ul>\r\n\t<li>Teach nursing courses at the postsecondary level, such as colleges and universities.</li>\r\n\t<li>Develop and deliver course content and design curricula aligned with program objectives.</li>\r\n\t<li>Conduct lectures, facilitate classroom discussions, and lead laboratory demonstrations.</li>\r\n\t<li>Oversee and evaluate students&#39; clinical practice sessions and provide feedback.</li>\r\n\t<li>Assess student performance through assignments, exams, and clinical evaluations.</li>\r\n\t<li>Serve as mentors and advisors, providing academic and professional guidance to students.</li>\r\n\t<li>Stay updated on advancements in nursing practice, research, and technology.</li>\r\n\t<li>Contribute to nursing research and publish scholarly articles.</li>\r\n\t<li>Engage in professional development activities to enhance expertise.</li>\r\n\t<li>Shape the next generation of nurses by providing quality education and mentorship.</li>\r\n</ul>\r\n",
+            "ability_needed": "<p>Becoming a Nursing Instructor and Teacher, Postsecondary requires a specific set of skills, abilities, and aptitudes. Here are some key qualities necessary for this role:</p>\r\n\r\n<ol>\r\n\t<li>\r\n\t<p>Expertise in Nursing: Extensive knowledge and experience in nursing practice, including various specialties and healthcare settings.</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>Effective Communication: Strong verbal and written communication skills to deliver lectures, facilitate discussions, and provide feedback to students.</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>Pedagogical Skills: The ability to develop engaging teaching strategies, create effective lesson plans, and adapt teaching methods to diverse learning styles.</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>Clinical Competence: Proficiency in clinical skills and the ability to demonstrate and teach proper nursing procedures.</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>Leadership and Mentorship: The capacity to guide and inspire students, providing support and mentorship throughout their nursing education journey.</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>Critical Thinking: The aptitude to analyze complex healthcare situations, apply evidence-based practices, and encourage critical thinking skills in students.</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>Organizational and Time Management: Strong organizational skills to manage multiple courses, develop curricula, and meet deadlines.</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>Collaboration: The ability to work effectively with colleagues, healthcare professionals, and students in a collaborative and interdisciplinary environment.</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>Lifelong Learning: A commitment to ongoing professional development, staying updated on current nursing practices, research, and educational methodologies.</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>Empathy and Cultural Sensitivity: The capacity to understand and empathize with diverse student populations, fostering an inclusive and culturally sensitive learning environment.</p>\r\n\t</li>\r\n</ol>\r\n\r\n<p>Nursing Instructors and Teachers, Postsecondary need to possess a combination of nursing expertise, teaching skills, and a passion for educating future nurses. By continually honing these skills and staying current with nursing advancements, they can provide quality education and contribute to the growth and development of nursing students.</p>\r\n",
+            "job_outlook": "<p>The future for Nursing Instructors and Teachers, Postsecondary, looks promising and holds several opportunities. Here&#39;s a glimpse into what the future may hold for this profession:</p>\r\n\r\n<ol>\r\n\t<li>Increasing Demand: The demand for qualified nursing professionals is expected to rise due to an ageing population, healthcare advancements, and the ongoing need for well-trained nurses. This will increase the need for skilled nursing instructors to educate and prepare the next generation of nurses.</li>\r\n\t<li>Technological Advancements: Technology continues to revolutionize healthcare and nursing education. Nursing Instructors must adapt and incorporate innovative teaching methods, simulation-based learning, virtual reality, and telehealth into their curricula to prepare students for the evolving healthcare landscape.</li>\r\n\t<li>Interdisciplinary Collaboration: Collaboration between healthcare disciplines is becoming increasingly important. Nursing Instructors may work closely with professionals from other healthcare fields to provide interdisciplinary education, preparing students to work effectively in integrated care settings.</li>\r\n\t<li>Lifelong Learning and Professional Development: Nursing is a field that constantly evolves, requiring educators to stay updated on the latest research, evidence-based practices, and technological advancements. Nursing Instructors must engage in lifelong learning and pursue professional development opportunities to enhance their teaching and subject matter expertise.</li>\r\n\t<li>Diverse Learning Environments: Nursing programs are increasingly embracing diversity and inclusion. Nursing Instructors will play a vital role in creating inclusive learning environments that foster cultural competence and prepare students to provide culturally sensitive care to diverse patient populations.</li>\r\n\t<li>Online and Blended Learning: The expansion of online and blended learning formats in education will continue to shape the future of nursing instruction. Nursing Instructors may increasingly incorporate virtual learning platforms, online simulations, and interactive multimedia resources to enhance student engagement and flexibility.</li>\r\n\t<li>Faculty Shortages and Retirement: The retirement of experienced nursing faculty and a shortage of qualified instructors present opportunities for aspiring educators to enter the field. This may lead to increased job prospects for Nursing Instructors in academic institutions.</li>\r\n</ol>\r\n\r\n<p>In summary, the future for Nursing Instructors and Teachers, Postsecondary, looks promising, with increased demand, technological advancements, interdisciplinary collaboration, and a focus on diversity and lifelong learning. Adapting to these changes and embracing innovative teaching methods will be crucial for educators to prepare future nurses for success in the evolving healthcare landscape.</p>\r\n"
+        },
+        {
+            "id": 291,
+            "career_name": "Pathologist",
+            "category": "Medicine and Health care",
+            "min_salary": "25000",
+            "max_salary": "250000",
+            "media_path": "assets/career_media/2020/11/career_2020-11-27-11-28-27Pathologist.webp",
+            "how_to_become": "<p>Pathology involves detecting the disease through the investigation of the blood sample and other fluids, body tissues, organs, bones and so on. This aids in finding out the illness the patient is suffering from in order to improve therapy.</p>\r\n\r\n<p>Pathologists are doctors who specialize in studying body tissue to see whether it is normal or abnormal. They classify illnesses through microscopic examination of the cells and tissues.</p>\r\n\r\n<p>Pathologists use samples to do a number of diagnostic assessments to arrive at a diagnosis and form a treatment recommendation. Pathologists are also inferring information from the laboratory to resolve complicated medical mysteries. Pathologists also collaborate with other medical personnel and generally have no direct communication with the patient.</p>\r\n",
+            "what_does_do": "<p>Job description, Profiles, Roles and Duties:</p>\r\n\r\n<ul>\r\n\t<li>Investigation of blood test results, smear tests and the removal of tissues</li>\r\n\t<li>Describe the test findings and offer recommendations on further medical tests</li>\r\n\t<li>Treating illnesses and ensuring blood transfusion is secure</li>\r\n\t<li>Creation of inherited and infectious disease vaccines</li>\r\n\t<li>Study and production of novel tests and treatments</li>\r\n\t<li>Organizing research work in labs and supervising other staff</li>\r\n\t<li>Attending meetings with other health practitioners to converse how particular patients are treated</li>\r\n\t<li>Consult alongside other physicians to aid attain a diagnosis for patients</li>\r\n\t<li>Perform studies of biopsies and other tissues using a microscope in a lab</li>\r\n\t<li>Carry out autopsies to find out the cause of death</li>\r\n\t<li>Examine the test results to determine any abnormal findings</li>\r\n\t<li>Formulate reports based on lab findings</li>\r\n</ul>\r\n",
+            "ability_needed": "<p>Strong record-keeping and other management skills in both the medical and business settings are important. Pathologists need to be good communicators to communicate effectively with other physicians and workers in healthcare.</p>\r\n\r\n<p>To arrive at a diagnosis, pathologists need to assess many factors. Therefore, they require problem-solving abilities and may need to work for long periods of time to formulate a diagnosis.</p>\r\n\r\n<p>Pathologists should be able to work well under pressure and have qualities such as accuracy, with an eye for detail and analytical skills. They will also possess competencies such as excellence in data processing and interpretation, and have a thorough knowledge of pathology, pathophysiology and other medical sciences. They must gauge the nature, cause, development and clinical management of people&#39;s diseases and the structural and functional variations that they are causing.</p>\r\n\r\n<p>Being a pathologist therefore, requires a lot of hard work, perseverance and spirit to serve society. Besides one must have discipline, endurance, determination and self-confidence to excel in their relevant area. If you have all these abilities in you then you&#39;re fit to be a pathologist because it&#39;s such a field that a fault of yours can harm a precious life, as you have to work with sharp pieces of equipment.</p>\r\n",
+            "job_outlook": "<p>For those who prefer pathology as their specialisation, there is a lot of scope. Aside from joining a private or government hospital as specialist pathologists, they can find profitable employments with enormous salaries in corporate hospitals and the drug industry as researchers.</p>\r\n\r\n<p>Pathologists can find jobs in public health, agriculture, law enforcement, and in several other fields. You may also work in companies involving the manufacturing of medicines, pharmaceutical and biotechnology. Pathologists can also begin their own diagnostic labs or become consultants in the private sector.</p>\r\n\r\n<p>You may apply for senior (or consultant) positions with experience and entry on the General Medical Council (GMC) Specialist Register.</p>\r\n\r\n<p>You could also make advancement towards teaching and training students, trainee doctors and other professionals in healthcare.</p>\r\n"
+        },
+        {
+            "id": 304,
+            "career_name": "Physical Medicine and Rehabilitation Physician",
+            "category": "Medicine and Health care",
+            "min_salary": "50000",
+            "max_salary": "300000",
+            "media_path": "assets/career_media/2023/06/Physical Medicine and Rehabilitation Physician.webp",
+            "how_to_become": "<p>A physical medicine and rehabilitation physician, also known as a physiatrist, is a medical doctor specialising in diagnosing, treating, and managing patients with physical disabilities, injuries, or conditions that affect their movement, function, and quality of life. Physiatrists are experts in the musculoskeletal, neurological, and medical aspects of physical medicine and rehabilitation. They provide comprehensive medical evaluations, diagnose the underlying causes of impairments or disabilities, and develop personalised treatment plans to address each patient&#39;s needs. Physiatrists are crucial in facilitating functional recovery, optimising patient independence, and improving overall well-being.&nbsp;</p>\r\n\r\n<p>They utilise a range of interventions, including physical therapy, occupational therapy, medication management, assistive devices, and pain management techniques, to help patients regain mobility, reduce pain, and enhance their ability to perform daily activities. Collaborating with interdisciplinary healthcare teams, physiatrists coordinate and oversee the rehabilitation process, monitor progress, and adjust treatment plans as needed.&nbsp;</p>\r\n\r\n<p>They also educate and support patients and their families, empowering them to actively participate in their rehabilitation journey. Physiatrists may engage in research, publish scientific articles, and advocate for policies that promote the well-being and inclusion of individuals with physical disabilities. Physical medicine and rehabilitation physicians are dedicated to improving patients&#39; lives with physical impairments through comprehensive medical care, rehabilitation interventions, and patient-centred approaches.</p>\r\n",
+            "what_does_do": "<ol>\r\n\t<li><strong>Medical Evaluation: </strong>Physiatrists perform comprehensive medical evaluations, reviewing patient histories, conducting physical examinations, and utilizing diagnostic tests to assess the nature and extent of physical impairments or disabilities.</li>\r\n\t<li><strong>Treatment Planning: </strong>Based on their evaluation, physiatrists develop personalized treatment plans that may include therapies, medications, assistive devices, and lifestyle modifications. These plans are designed to optimize patients&#39; function and alleviate pain.</li>\r\n\t<li><strong>Rehabilitation Interventions: </strong>Physiatrists coordinate rehabilitation interventions such as physical, occupational, and other specialized therapies. They monitor progress and adjust treatment plans to promote functional recovery and independence.</li>\r\n\t<li><strong>Pain Management: </strong>Physiatrists specialize in managing acute and chronic pain conditions. They employ various techniques, including medication management, interventional procedures, and non-pharmacological approaches, to alleviate pain and improve patient&#39;s quality of life.</li>\r\n\t<li><strong>Collaborative Care: </strong>Physiatrists work closely with interdisciplinary healthcare teams, including physical therapists, occupational therapists, psychologists, and social workers, to provide comprehensive care to patients. They collaborate with other specialists and referring physicians to ensure coordinated and integrated care.</li>\r\n\t<li><strong>Patient Education: </strong>Physiatrists educate patients and their families about their condition, treatment options, and self-management strategies. They guide exercises, adaptive techniques, and lifestyle modifications to optimize function and promote long-term well-being.</li>\r\n\t<li><strong>Research and Advocacy: </strong>Physiatrists engage in research to advance the field of physical medicine and rehabilitation. They contribute to scientific literature, participate in clinical trials, and advocate for policies that support the needs of individuals with physical impairments.</li>\r\n</ol>\r\n\r\n<p>&nbsp;</p>\r\n",
+            "ability_needed": "<ol>\r\n\t<li><strong>Medical Knowledge: </strong>Strong medical knowledge is essential, including a comprehensive understanding of musculoskeletal and neurological systems, joint conditions, and treatments in physical medicine and rehabilitation.</li>\r\n\t<li><strong>Diagnostic Skills: </strong>Physiatrists need exceptional diagnostic skills to accurately assess patients&#39; conditions, interpret diagnostic tests, and formulate appropriate treatment plans.</li>\r\n\t<li><strong>Communication: </strong>Effective communication skills are crucial for interacting with patients, colleagues, and interdisciplinary teams. Physiatrists must be able to explain complex medical information clearly and compassionately and actively listen to patients&#39; concerns.</li>\r\n\t<li><strong>Interdisciplinary Collaboration: </strong>Physiatrists work collaboratively with other healthcare professionals, including physical therapists, occupational therapists, and psychologists. The ability to collaborate, coordinate care, and integrate therapies is essential.</li>\r\n\t<li><strong>Critical Thinking and Problem-Solving: </strong>Physiatrists must be skilled in analyzing complex patient cases, considering multiple factors, and developing individualized treatment plans. They should be adept at problem-solving and adapting interventions based on patient&#39;s needs.</li>\r\n\t<li><strong>Empathy and Patient-Centered Care: </strong>Physiatrists should possess empathy and compassion as they work closely with patients experiencing pain, disability, or limitations. They should prioritize patient-centered care, considering patients&#39; goals, preferences, and quality of life.</li>\r\n\t<li><strong>Manual Dexterity: </strong>Some physical medicine and rehabilitation procedures, such as injection techniques or musculoskeletal examinations, require good manual dexterity and fine motor skills.</li>\r\n\t<li><strong>Adaptability and Lifelong Learning:</strong> Physical medicine and rehabilitation are continually evolving. Physiatrists must stay updated with emerging research, treatment modalities, and technological advancements. They should be adaptable, open to learning, and committed to ongoing professional development.</li>\r\n</ol>\r\n",
+            "job_outlook": "<p>The future for physical medicine and rehabilitation physicians, also known as physiatrists, is promising. With an aging population and increased awareness of the importance of rehabilitation in healthcare, the demand for their expertise is expected to grow. Advancements in technology, research, and treatment modalities will continue to enhance the field, allowing physiatrists to play a vital role in improving patients&#39; functional outcomes and quality of life. Collaborative care models and interdisciplinary approaches will further contribute to the success and impact of physiatrists in the healthcare landscape.</p>\r\n"
+        },
+        {
+            "id": 305,
+            "career_name": "Physical Therapist ",
+            "category": "Medicine and Health care",
+            "min_salary": "25000",
+            "max_salary": "150000",
+            "media_path": "assets/career_media/2021/03/career_2021-03-11-15-00-15Physical_Therapist.webp",
+            "how_to_become": "<p style=\"text-align:justify\">A physical therapist specializes in treating individuals with physical impairments, injuries, or conditions that affect their ability to move and function. These professionals are crucial in helping patients recover from injuries, regain mobility, manage pain, and improve overall physical well-being. Physical therapists assess patients&#39; conditions, develop personalized treatment plans, and provide hands-on interventions to restore optimal movement and functionality.&nbsp;</p>\r\n\r\n<p>They utilize various techniques, including therapeutic exercises, manual therapy, electrical stimulation, and assistive devices, to address musculoskeletal, neurological, and cardiopulmonary impairments. Physical therapists also educate patients about their conditions, teach them exercises for home management, and guide injury prevention and self-care. They work in various settings, including hospitals, rehabilitation centres, private clinics, sports medicine facilities, and home healthcare agencies.&nbsp;</p>\r\n\r\n<p>Collaboration with other healthcare professionals, such as physicians, occupational therapists, and speech therapists, is often part of their practice. With their expertise in promoting physical health, functional recovery, and improved quality of life, physical therapists make a significant impact in helping individuals of all ages overcome physical challenges and achieve their maximum potential.</p>\r\n",
+            "what_does_do": "<ol>\r\n\t<li style=\"text-align:justify\"><strong>Patient Evaluation: </strong>Physical therapists assess patients by reviewing their medical history, conducting physical examinations, and using diagnostic tests to determine the nature and extent of their condition or injury.</li>\r\n\t<li style=\"text-align:justify\"><strong>Treatment Planning: </strong>Based on the evaluation, physical therapists develop personalized treatment plans tailored to each patient&#39;s needs. These plans include specific goals and interventions to address functional limitations, relieve pain, and improve mobility.</li>\r\n\t<li style=\"text-align:justify\"><strong>Hands-On Interventions: </strong>Physical therapists provide hands-on interventions to patients, which may include therapeutic exercises, manual therapy techniques, joint mobilization, soft tissue mobilization, and specialized equipment to improve strength, flexibility, balance, and coordination.</li>\r\n\t<li style=\"text-align:justify\"><strong>Rehabilitation: </strong>They guide patients through rehabilitation programs to restore optimal function, mobility, and independence. This may involve exercises, stretching, gait training, and other techniques to enhance physical capabilities.</li>\r\n\t<li style=\"text-align:justify\">Pain Management: Physical therapists use various pain management techniques such as heat or cold therapy, electrical stimulation, ultrasound, and specialized exercises to reduce pain and improve patients&#39; comfort.</li>\r\n\t<li style=\"text-align:justify\"><strong>Patient Education: </strong>Physical therapists educate patients and their families about their condition, treatment options, and self-management strategies. They guide exercises, home care techniques, and injury prevention to promote long-term well-being.</li>\r\n\t<li style=\"text-align:justify\"><strong>Collaboration: </strong>Physical therapists often work as part of a healthcare team, collaborating with physicians, occupational therapists, speech therapists, and other professionals to provide comprehensive care and facilitate the patient&#39;s overall recovery.</li>\r\n\t<li style=\"text-align:justify\"><strong>Monitoring and Adjusting: </strong>Physical therapists regularly monitor patients&#39; progress, adjust treatment plans as needed, and motivate patients to achieve their goals.</li>\r\n</ol>\r\n",
+            "ability_needed": "<ol>\r\n\t<li><strong>Knowledge of Anatomy and Physiology: </strong>Physical therapists must have a strong understanding of the human body&#39;s structure and function, including musculoskeletal, neurological, and cardiopulmonary systems.</li>\r\n\t<li><strong>Clinical Assessment: </strong>They need to possess skills in conducting thorough patient evaluations, including history-taking, physical examinations, and interpreting diagnostic tests to develop accurate treatment plans.</li>\r\n\t<li><strong>Treatment Techniques: </strong>Physical therapists should be proficient in various treatment techniques, including therapeutic exercises, manual therapy, modalities (such as ultrasound and electrical stimulation), and assistive devices, to address patients&#39; specific needs.</li>\r\n\t<li><strong>Communication and Interpersonal Skills:</strong> Effective communication is vital for building rapport with patients, understanding their concerns, and explaining treatment plans. They should be able to convey complex medical information clearly and compassionately.</li>\r\n\t<li><strong>Problem-Solving and Critical Thinking: </strong>Physical therapists should have strong problem-solving abilities to assess patients&#39; conditions, analyze their functional limitations, and develop appropriate interventions. They need to think critically and adapt treatment plans as needed.</li>\r\n\t<li><strong>Empathy and Patience: </strong>Physical therapists work closely with patients who may be in pain or experiencing physical limitations. They must demonstrate empathy, patience, and a compassionate approach to support and motivate patients throughout their rehabilitation journey.</li>\r\n\t<li><strong>Physical Stamina: </strong>This profession requires physical stamina, as physical therapists may need to assist patients in performing exercises, provide hands-on interventions, and spend prolonged periods on their feet.</li>\r\n\t<li><strong>Continuous Learning: </strong>Physical therapy is a constantly evolving field. Physical therapists should be committed to lifelong learning, staying updated with advancements in research, treatment techniques, and evidence-based practices.</li>\r\n\t<li><strong>Teamwork and Collaboration: </strong>Physical therapists often work as part of a multidisciplinary team. They should be able to collaborate effectively with physicians, occupational therapists, speech therapists, and other healthcare professionals to ensure coordinated patient care.</li>\r\n</ol>\r\n",
+            "job_outlook": "<p>The future for physical therapists is promising. With an ageing population, increased emphasis on preventive care and wellness, and advancements in healthcare technology, the demand for physical therapy services is expected to grow. Physical therapists will play a vital role in helping individuals recover from injuries, manage chronic conditions, and improve their quality of life. The evolving healthcare landscape offers opportunities for specialization, interdisciplinary collaboration, and the integration of telehealth and digital solutions, expanding the scope and impact of physical therapy practice.</p>\r\n"
+        },
+        {
+            "id": 306,
+            "career_name": "Physicist",
+            "category": "Science",
+            "min_salary": "25000",
+            "max_salary": "150000",
+            "media_path": "assets/career_media/2020/11/career_2020-11-25-13-14-21Physicist.webp",
+            "how_to_become": "<p>As scientists, Physicists are focused on examining the principles and properties of different forms of matter and energy, and how they interact.&nbsp;Primarily, their efforts are geared towards studying the universe, from subatomic particles to large galaxies, they aim to uncover the laws governing time and space.&nbsp;Utilizing specialized equipment, such as&nbsp;lasers&nbsp;and telescopes, uncover the principles governing physical phenomena that shape the natural world. A good part of a Physicist&rsquo;s job requires delving into extensive research. They generate data by conducting experitments to test their hypotheses and draw conclusions from.&nbsp;They are also involved in designing scientific equipment that is necessary to conduct experiments such as electron microscoepes and particle accelerators. The field divides into two broad areas, applied physics and theoretical physics. The research focused on applying the knowledge of physics to benefit the general public comes under the purview of applied physics; on the other hand, investigating areas without concerning themselves with its practical applications has to do with theoretical physics. Their work on developing theories based on the data gathered through observations and experiments.</p>\r\n",
+            "what_does_do": "<p>Physicists usually specialize in certain focus areas, which dictate the responsibilities that they are endowed with:</p>\r\n\r\n<ul>\r\n\t<li>Write research proposals and grant applications&nbsp;to obtain funding in order to contribute to the field by conducting research</li>\r\n\t<li>In accordance with the methology and purpose of the research, generate hypotheses, plan the path and procedure of the study to gather relavant data</li>\r\n\t<li>Conduct&nbsp;experiements needed to carry out the research while ensuring accuracy of the results data by perfomring quality control tests</li>\r\n\t<li>Evaluate and analyze&nbsp;the results obtained by performing complex calculations and expressing the data in mathematical terms when relevant</li>\r\n\t<li>Report results of the study by publishing it in journal or presenting it at scientific conferences</li>\r\n\t<li>Work with fellow scientists in creating and testing equipment and procedures that apply the knowledge of physics such as nuclear energy</li>\r\n\t<li>Engage in developing theories pertaining to relevant concepts that can be applied to propose solutions to real-world problems in&nbsp;medical, military, commercial and industrial sectors</li>\r\n\t<li>Devote time to generate computer simulations to study relevant phenomena effectively as well as to study the effects of industrial activities on the environment</li>\r\n</ul>\r\n",
+            "ability_needed": "<p>As a part of a competitive, scientific field, Physicists tend to be investigative, rational, and logical individuals with extensive knowledge of physics and&nbsp;mathematics. in addition, a&nbsp;good grasp over the principles of engineering science and technology as well as that of relevant computer applications&nbsp;is also required.&nbsp;Excellent complex problem-solving skills as well as analytical thinking and resoning skills are requisite to choose this career option. Apart from this, a physicist needs to possess the ability to express complex phenomena effectively, using both verbal and written means, making communication skills another crucial aspect for this job. Ease with applying scientific and mathematical knowledge to resolve problems, theoretical or application based as is relevant to their job, is a skill of importance for a physicist.&nbsp;For a Physicist, research and project development skills are frequently put to use on the job as they are tasked with utilizing their logic and reasoning abilities to develop probable theories which can be tested using experiments.</p>\r\n",
+            "job_outlook": "<p>Since Physics is fundamental to many other fields, it can be applied to a range of interest areas, thereby increasing the employmental opportunities for Physicists. Physicists are typically employed in laboratories, government agencies, hospitals, defence, research centres, private sector industries, and universities, with most opportunities present in the medical sector. Of those who are employed in the private industries, many work for companies that develop chemicals, aircraft, electrical machinery. A physicist generally specializes in a specific area, with the most common being medical, atomic, astrophysics etc. For physicists, working in the education sector is another common route, which requires the individual to hold a PhD. It allows them to flexibly exercise control over their research endeavours - conducting research, publishing research articles and papers, presenting papers and disseminating the knowledge of their finding. On the basis of their performance in terms of research, they can be offered senior academic posts. Physicists may work at research organizations that offer training on the job. Some others, however, use their expertise and advanced analytical skills in other professional fields such as engineering, computer science, electronics, R&amp;D. Their work is required for building sophisticated instruments such as medical equipment and other advanced materials.</p>\r\n"
+        }
+    ]
+}

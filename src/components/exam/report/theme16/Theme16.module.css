@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+:root {
+  --theme5-bgcolor: #fff;
+  --theme5-font-family: "Poppins", sans-serif;
+  --theme5-cover-bg: #4285c1;
+  --theme5-cover-font: "Elephant";
+  --theme5-cover-title-color: #fff;
+  --theme5-h1-title: "Elephant";
+  --theme5-h1-title-color: #e56c00;
+  --theme5-highlight-color: #135c80;
+  --theme5-text-color: #000;
+}
+
+/* Desktop view CSS MODULE WISE */
+
+
+/* MOBILE view CSS MODULE WISE */
+
+
+/* PRINT view CSS MODULE WISE */
+@media print {
+  * {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+  }
+ 
+  @page {
+      size: A4;
+      margin: 20mm;
+  }
+
+  body {
+      margin: 0;
+      padding: 0;
+  }
+
+}
